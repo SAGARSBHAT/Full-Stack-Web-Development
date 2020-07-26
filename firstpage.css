@@ -69,28 +69,6 @@
     color: gray;
 }
 
-.container{
-    width: 30%;
-    float: left;
-    margin-right: 30px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    box-shadow: 0 3px 6px black;
-
-}
-.container1{
-   width: 50%;
-   float: left;
-}
-.container2{
-    font-weight: bolder;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    width: 50%;
-    float: left;
-    text-align: center;
-
-
-}
 .maintext{
     margin-top: 30px;
     font-size: 30px;
